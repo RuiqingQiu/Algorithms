@@ -1,22 +1,26 @@
 //count the number of continous subarrays that is less than k
+// time limit exceed naive solution, iteration two times and count
 Class Solution{
   public int numSubArrayProductLessThanK(int[] nums, int k){
     int count = 0;
     for (int i = 0; i < nums.length; i++) {
       for(int j = i + 1; j < nums.length; j++){
-        if(SubArrayProduct(i, j) < k){
+        if(SubArrayProduct(i, j, nums, k)){
           count++;
         }
       }
     }
     return count;
   }
-  public int SubArrayProduct(int start, int end, int[] nums) {
+  public boolean SubArrayProduct(int start, int end, int[] nums, int k) {
     int product = 1;
     for (int i = start; i < end; i++) {
       product *= nums[i];
+      if (product >= k){
+          return false;
+      }
     }
-    return product;
+    return true;
   }
 }
 //Sliding window solution
