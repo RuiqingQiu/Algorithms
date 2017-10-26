@@ -26,3 +26,31 @@ class Solution{
   }
 
 }
+// For using O(1) space and O(n) solution
+class Solution{
+
+  public int firstMissingPositive(int[] nums){
+      for(int i = 0; i < nums.length; i++){
+        if(nums[i] <= 0 || nums[i] > nums.length){
+            continue;
+        }
+        int cur = nums[i];
+        int next = nums[cur-1];
+        while(cur != next){
+            nums[cur-1] = cur;
+            cur = next;
+            if(cur <= 0 || cur > nums.length){
+                break;
+            }
+            next = nums[cur-1];
+        }
+      }
+      for(int i = 1; i < nums.length; i++){
+          if(nums[i] != i - 1){
+              return i + 1;
+          }
+      }
+      return nums.length + 1;
+  }
+
+}
