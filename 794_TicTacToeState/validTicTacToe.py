@@ -51,5 +51,3 @@ class Solution:
             if (numOfX != numOfO):
                 return False
         return True
-        # checking win condition
-        # 1 row
