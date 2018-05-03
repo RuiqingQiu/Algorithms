@@ -11,4 +11,10 @@ class Solution:
         :type G: List[int]
         :rtype: int
         """
-        
+        setG = set(G)
+        res = 0
+        while head:
+            if head.val in setG and (head.next == None or head.next.val not in setG):
+                rest += 1
+            head = head.next
+        return res
