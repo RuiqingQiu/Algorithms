@@ -12,6 +12,6 @@ class Solution:
         for num in nums:
             sum += num
             ans += count[sum - k]
-            count[sum] += 1
+            count[sum] += 1a
 
         return ans
