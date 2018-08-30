@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-08-29 18:39:22, I have solved **119** / **843** problems while **139** are still locked.
+Until 2018-08-29 18:45:35, I have solved **119** / **843** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 79
+2. Python: 80
 3. C++: 0
 4. Java: 46
 
@@ -599,7 +599,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/657_JudgeRouteCircle/657_ judgeCycle.py)|To Do|To Do|
+|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/657_JudgeRouteCircle/657_judgeCycle.py)|To Do|To Do|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|To Do|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |660|[Remove 9](https://leetcode.com/problems/remove-9/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
