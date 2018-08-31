@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-08-29 19:21:53, I have solved **129** / **843** problems while **139** are still locked.
+Until 2018-08-30 19:57:28, I have solved **133** / **843** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 79
 3. C++: 0
-4. Java: 58
+4. Java: 62
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -806,7 +806,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|To Do|To Do|
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|To Do|To Do|To Do|To Do|
-|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/852_PeakIndexinaMountainArray/peakIndexInMountainArray.java)|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|To Do|To Do|To Do|To Do|
 |854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|To Do|To Do|To Do|To Do|
 |855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -822,7 +822,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |864|[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) |Hard|To Do|To Do|To Do|To Do|
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) |Medium|To Do|To Do|To Do|To Do|
 |866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) |Medium|To Do|To Do|To Do|To Do|
-|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) |Easy|To Do|To Do|To Do|To Do|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/867_TransposeMatrix/transpose.java)|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) |Easy|To Do|To Do|To Do|To Do|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) |Medium|To Do|To Do|To Do|To Do|
 |870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -832,7 +832,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) |Easy|To Do|To Do|To Do|To Do|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |Medium|To Do|To Do|To Do|To Do|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/876_MiddleoftheLinkedList/middleNode.java)|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) |Hard|To Do|To Do|To Do|To Do|
 |879|[Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) |Hard|To Do|To Do|To Do|To Do|
