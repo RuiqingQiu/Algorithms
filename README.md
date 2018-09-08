@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-07 18:09:07, I have solved **163** / **847** problems while **139** are still locked.
+Until 2018-09-07 18:36:19, I have solved **164** / **847** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 79
 3. C++: 0
-4. Java: 96
+4. Java: 97
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -359,7 +359,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/362_DesignHitCounter/HitCounter.java)|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) |Hard|To Do|To Do|To Do|To Do|
-|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/364_NestedListWeightSumII/depthSumInverse.java)|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/description/) |Medium|To Do|To Do|To Do|To Do|
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) |Easy|To Do|To Do|To Do|To Do|
