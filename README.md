@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-12 17:28:19, I have solved **173** / **851** problems while **139** are still locked.
+Until 2018-09-12 19:10:47, I have solved **176** / **851** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 79
 3. C++: 0
-4. Java: 107
+4. Java: 110
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -213,7 +213,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/215_KthLargestElementinanArray/findKthLargest.java)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|To Do|To Do|To Do|To Do|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|To Do|To Do|To Do|To Do|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/217_ContainsDuplicate/containsDuplicate.java)|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|To Do|To Do|To Do|To Do|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -383,7 +383,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|To Do|To Do|To Do|To Do|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
-|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|To Do|To Do|
+|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/388_LongestAbsoluteFilePath/lengthLongestPath.java)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|To Do|To Do|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -648,7 +648,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |Medium|To Do|To Do|To Do|To Do|
 |715|[Range Module](https://leetcode.com/problems/range-module/description/) |Hard|To Do|To Do|To Do|To Do|
 |716|[Max Stack](https://leetcode.com/problems/max-stack/description/) :lock:|Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/716_MaxStack/MaxStack.java)|
-|717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|To Do|To Do|To Do|To Do|
+|717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/717_1-bitand2-bitCharacters/isOneBitCharacter.java)|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) |Medium|To Do|To Do|To Do|To Do|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) |Hard|To Do|To Do|To Do|To Do|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) |Easy|To Do|To Do|To Do|To Do|
