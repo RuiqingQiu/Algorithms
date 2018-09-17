@@ -1,38 +1,31 @@
 class Solution {
     public int calculate(String s) {
         Stack<Integer> stack = new Stack<>();
-        int result = 0;
-        int number = 0;
         int sign = 1;
+        int result = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            char current = s.charAt(i);
+            if (Character.isDigit(s.charAt(i))) {
+                int number = 0;
 
-            if (current == '+') {
-                result += sign * number;
-                number = 0;
+                while (i < s.length() && Character.isDigit(s.charAt(i))) {
+                    number = number * 10 + s.charAt(i++) - '0';
+                }
+                i--;
+
+                result += number * sign;
+            } else if (s.charAt(i) == '+') {
                 sign = 1;
-            } else if (current == '-') {
-                result += sign * number;
-                number = 0;
+            } else if (s.charAt(i) == '-') {
                 sign = -1;
-            } else if (Character.isDigit(current)) {
-                number = number * 10 + (int)(current - '0');
-            } else if (current == '(') {
+            } else if (s.charAt(i) == '(') {
                 stack.push(result);
                 stack.push(sign);
-                sign = 1;
                 result = 0;
-            } else if (current == ')') {
-                result += sign * number;
-                number = 0;
-                result *= stack.pop();
-                result += stack.pop();
+                sign = 1;
+            } else if (s.charAt(i) == ')') {
+                result = result * stack.pop() + stack.pop();
             }
-        }
-
-        if (number != 0) {
-            result += sign * number;
         }
 
         return result;
