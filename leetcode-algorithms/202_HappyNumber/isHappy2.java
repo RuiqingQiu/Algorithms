@@ -1,25 +1,22 @@
 class Solution {
     public boolean isHappy(int n) {
-        // Approach of knowing the number of operations before loop
+        Set<Integer> visited = new HashSet<Integer>();
         int current = n;
-        int totalNumberOfOperations = 0;
 
-        while (totalNumberOfOperations != 810) {
+        while (visited.add(current)) {
             int result = 0;
 
             while (current > 0) {
                 int digit = current % 10;
-
-                result += digit * digit;
                 current = current / 10;
+                result += digit * digit;
             }
 
             if (result == 1) {
                 return true;
+            } else {
+                current = result;
             }
-
-            current = result;
-            totalNumberOfOperations++;
         }
 
         return false;
