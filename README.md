@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-17 10:35:00, I have solved **185** / **855** problems while **139** are still locked.
+Until 2018-09-17 19:09:46, I have solved **191** / **855** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 0
-4. Java: 124
+4. Java: 135
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -151,8 +151,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|To Do|To Do|
-|139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|To Do|
-|140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/139_WordBreak/wordBreak.java)|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/140_WordBreakII/wordBreak2.java)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|To Do|To Do|To Do|To Do|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -214,13 +214,13 @@ Note: :lock: means you need to buy a book from LeetCode
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/215_KthLargestElementinanArray/findKthLargest.java)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|To Do|To Do|To Do|To Do|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/217_ContainsDuplicate/containsDuplicate.java)|
-|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|To Do|To Do|To Do|To Do|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/218_TheSkylineProblem/getSkyline.java)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) |Medium|To Do|To Do|To Do|To Do|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/) |Medium|To Do|To Do|To Do|To Do|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) |Medium|To Do|To Do|To Do|To Do|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) |Medium|To Do|To Do|To Do|To Do|
-|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|To Do|To Do|To Do|To Do|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/224_BasicCalculator/calculate2.java)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |Easy|To Do|To Do|To Do|To Do|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -311,7 +311,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |Hard|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/315_CountofSmallerNumbersAfterSelf/PythonMergeSort.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/315_CountofSmallerNumbersAfterSelf/TreeSolution.java)|
-|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/) |Hard|To Do|To Do|To Do|To Do|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/316_RemoveDuplicateLetters/removeDuplicateLetters2.java)|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) |Medium|To Do|To Do|To Do|To Do|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -331,7 +331,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/description/) |Hard|To Do|To Do|To Do|To Do|
-|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/) |Hard|To Do|To Do|To Do|To Do|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/336_PalindromePairs/palindromePairs3.java)|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/) |Medium|To Do|To Do|To Do|To Do|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) |Medium|To Do|To Do|To Do|To Do|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) :lock:|Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/339_NestedListWeightSum/339_depthSum.py)|To Do|To Do|
