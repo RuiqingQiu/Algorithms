@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-18 18:49:55, I have solved **206** / **855** problems while **139** are still locked.
+Until 2018-09-19 18:44:03, I have solved **210** / **855** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 0
-4. Java: 156
+4. Java: 163
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -136,7 +136,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|To Do|To Do|To Do|To Do|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/122_BestTimetoBuyandSellStockII/maxProfit.java)|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|To Do|To Do|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|To Do|To Do|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/124_BinaryTreeMaximumPathSum/maxPathSum.java)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/126_WordLadderII/findLadders.java)|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/127_WordLadder/ladderLength.java)|
@@ -223,7 +223,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/224_BasicCalculator/calculate2.java)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |Easy|To Do|To Do|To Do|To Do|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
-|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/227_BasicCalculatorII/calculate2.java)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/228_SummaryRanges/summaryRanges.java)|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -295,7 +295,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/297_SerializeandDeserializeBinaryTree/serialize.java)|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Medium|To Do|To Do|To Do|To Do|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/300_LongestIncreasingSubsequence/lengthOfLIS2.java)|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/303_RangeSumQuery-Immutable/NumArray.java)|
@@ -615,7 +615,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) |Medium|To Do|To Do|To Do|To Do|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/671_MergeTrees/617_mergeTrees.py)|To Do|To Do|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
+|673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/673_NumberofLongestIncreasingSubsequence/findNumberOfLIS2.java)|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) |Easy|To Do|To Do|To Do|To Do|
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) |Hard|To Do|To Do|To Do|To Do|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) |Medium|To Do|To Do|To Do|To Do|
