@@ -8,22 +8,12 @@
  * }
  */
 class Solution {
-    int max = 0;
 
     public int maxDepth(TreeNode root) {
-        helper(root, 1);
-
-        return max;
-    }
-
-    private void helper(TreeNode root, int depth) {
         if (root == null) {
-            return;
+            return 0;
         }
 
-        max = Math.max(depth, max);
-
-        helper(root.left, depth + 1);
-        helper(root.right, depth + 1);
+        return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 }
