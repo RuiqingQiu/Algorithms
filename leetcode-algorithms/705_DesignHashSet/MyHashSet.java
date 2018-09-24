@@ -2,44 +2,36 @@ class MyHashSet {
 
     int bucket = 1000;
     int itemsPerBucket = 1001;
+    boolean[][] table;
 
-    private boolean[][] table;
     /** Initialize your data structure here. */
     public MyHashSet() {
         table = new boolean[bucket][];
     }
 
-    private int hash(int key) {
-        return key % bucket;
-    }
-
-    private int getPosition(int key) {
-        return key / bucket;
-    }
-
     public void add(int key) {
-        int hash = hash(key);
+        int hash = key % bucket;
 
         if (table[hash] == null) {
-            table[hash] = new boolean[itemsPerBucket];
+            table[hash] = new boolean[bucket];
         }
 
-        table[hash][getPosition(key)] = true;
+        table[hash][key / bucket] = true;
     }
-
+    
     public void remove(int key) {
-        int hash = hash(key);
+        int hash = key % bucket;
 
         if (table[hash] != null) {
-            table[hash][getPosition(key)] = false;
+            table[hash][key / bucket] = false;
         }
     }
 
     /** Returns true if this set contains the specified element */
     public boolean contains(int key) {
-        int hash = hash(key);
+        int hash = key % bucket;
 
-        return table[hash] != null && table[hash][getPosition(key)];
+        return table[hash] != null && table[hash][key / bucket];
     }
 }
 
