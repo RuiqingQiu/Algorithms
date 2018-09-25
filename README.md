@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-24 10:33:39, I have solved **231** / **859** problems while **139** are still locked.
+Until 2018-09-25 13:31:42, I have solved **234** / **859** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 0
-4. Java: 199
+4. Java: 204
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -281,7 +281,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/283_MoveZeroes/moveZeroes.java)|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/285_InorderSuccessorinBST/inorderSuccessor.java)|
-|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/286_WallsandGates/wallsAndGates.java)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/289_GameofLife/gameOfLife2.java)|
@@ -341,7 +341,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|To Do|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/344_ReverseString/344_reverseString.py)|To Do|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/345_ReverseVowelsofaString/reverseVowels.java)|
-|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/346_MovingAveragefromDataStream/346_MovingAverage.py)|To Do|To Do|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/346_MovingAveragefromDataStream/346_MovingAverage.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/346_MovingAveragefromDataStream/MovingAverage.java)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/347_TopKFrequentElements/topKFrequent.java)|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/348_DesignTic-Tac-Toe/TicTacToe.java)|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -684,7 +684,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |749|[Contain Virus](https://leetcode.com/problems/contain-virus/description/) |Hard|To Do|To Do|To Do|To Do|
 |750|[Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |751|[IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
-|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/) |Medium|To Do|To Do|To Do|To Do|
+|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/752_OpentheLock/openLock.java)|
 |753|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/) |Hard|To Do|To Do|To Do|To Do|
 |754|[Reach a Number](https://leetcode.com/problems/reach-a-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |755|[Pour Water](https://leetcode.com/problems/pour-water/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
@@ -784,7 +784,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/830_PositionsofLargeGroups/830_largeGroupPositions.py)|To Do|To Do|
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|To Do|
 |641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) |Medium|To Do|To Do|To Do|To Do|
-|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Medium|To Do|To Do|To Do|To Do|
+|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/622_DesignCircularQueue/MyCircularQueue.java)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/832_FlippinganImage/832_flipAndInvertImage.py)|To Do|To Do|
 |833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|To Do|
