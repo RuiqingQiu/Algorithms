@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-25 18:07:14, I have solved **241** / **859** problems while **139** are still locked.
+Until 2018-09-25 19:04:33, I have solved **242** / **859** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 0
-4. Java: 213
+4. Java: 214
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -672,7 +672,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) |Medium|To Do|To Do|To Do|To Do|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/739_DailyTemperatures/dailyTemperatures3.java)|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) |Medium|To Do|To Do|To Do|To Do|
-|741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|To Do|
+|741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/741_CherryPickup/cherryPickup.java)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/709_ToLowerCase/toLowerCase.java)|
 |742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|To Do|To Do|To Do|To Do|
