@@ -4,7 +4,8 @@ Until 2018-09-26 19:45:02, I have solved **242** / **859** problems while **139*
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
-3. C++: 0
+3. C++: 0123
+
 4. Java: 216
 
 Note: :lock: means you need to buy a book from LeetCode
