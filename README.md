@@ -1,12 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-26 19:45:02, I have solved **242** / **859** problems while **139** are still locked.
+Until 2018-10-01 22:07:18, I have solved **247** / **863** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
-3. C++: 0123
-
-4. Java: 216
+3. C++: 0
+4. Java: 223
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -440,7 +439,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) |Easy|To Do|To Do|To Do|To Do|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/448_FindAllNumbersDisappearedinanArray/findDisappearedNumbers.java)|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) |Medium|To Do|To Do|To Do|To Do|
-|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |Medium|To Do|To Do|To Do|To Do|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/450_DeleteNodeinaBST/deleteNode.java)|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) |Medium|To Do|To Do|To Do|To Do|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) |Medium|To Do|To Do|To Do|To Do|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -467,7 +466,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |475|[Heaters](https://leetcode.com/problems/heaters/description/) |Easy|To Do|To Do|To Do|To Do|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/476_NumberComplement/476_findComplement.py)|To Do|To Do|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) |Medium|To Do|To Do|To Do|To Do|
-|479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) |Easy|To Do|To Do|To Do|To Do|
+|479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/479_LargestPalindromeProduct/largestPalindrome.java)|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/description/) |Hard|To Do|To Do|To Do|To Do|
 |481|[Magical String](https://leetcode.com/problems/magical-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/482_LicenseKeyFormatting/licenseKeyFormatting.java)|
@@ -481,7 +480,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) |Easy|To Do|To Do|To Do|To Do|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) |Hard|To Do|To Do|To Do|To Do|
-|494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/494_TargetSum/findTargetSumWays.java)|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) |Medium|To Do|To Do|To Do|To Do|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/496_NextGreaterElementI/496_nextGreaterElement.py)|To Do|To Do|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -721,7 +720,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard|To Do|To Do|To Do|To Do|
 |774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) |Easy|To Do|To Do|To Do|To Do|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/703_KthLargestElementinaStream/KthLargest.java)|
 |775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) |Medium|To Do|To Do|To Do|To Do|
 |776|[Split BST](https://leetcode.com/problems/split-bst/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/704_BinarySearch/search.java)|
@@ -873,3 +872,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) |Medium|To Do|To Do|To Do|To Do|
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/910_SmallestRangeII/smallestRangeII.java)|
 |911|[Online Election](https://leetcode.com/problems/online-election/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/911_OnlineElection/TopVotedCandidate.java)|
+|913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/) |Hard|To Do|To Do|To Do|To Do|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/914_XofaKindinaDeckofCards/hasGroupsSizeX2.java)|
+|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
+|916|[Word Subsets](https://leetcode.com/problems/word-subsets/description/) |Medium|To Do|To Do|To Do|To Do|
