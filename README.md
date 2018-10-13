@@ -875,4 +875,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/) |Hard|To Do|To Do|To Do|To Do|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/914_XofaKindinaDeckofCards/hasGroupsSizeX2.java)|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
-|916|[Word Subsets](https://leetcode.com/problems/word-subsets/description/) |Medium|To Do|To Do|To Do|To Do|
+|916|[Word Subsets](https://leetcode.com/problems/word-subsets/description/) |Medium|To Do|To Do|To Do|To Do       |
