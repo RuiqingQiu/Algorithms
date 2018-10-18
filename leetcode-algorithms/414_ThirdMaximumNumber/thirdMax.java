@@ -18,7 +18,6 @@ class Solution {
                     pq.offer(num);
                     set.add(num);
                 }
-
             }
         }
 
