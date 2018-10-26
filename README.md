@@ -1,6 +1,6 @@
 # Keep thinking, keep alive
 Until 2018-10-23 22:01:16, I have solved **278** / **875** problems while **139** are still locked.
-123
+
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
