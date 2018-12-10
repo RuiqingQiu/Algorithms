@@ -209,6 +209,13 @@ class Readme:
         self.locked = locked
         self.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         self.msg = '# Keep thinking, keep alive\n' \
+                    '> Good Things Take Time\n\n' \
+                    '> Never Give Up\n\n' \
+                    '> Be Patient \n\n' \
+                    '>  Be Kind \n\n' \
+                    '> Always have hope \n\n' \
+                    '##### Major Milestone\n' \
+                    '- After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)\n\n' \
                    'Until {}, I have solved **{}** / **{}** problems ' \
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
