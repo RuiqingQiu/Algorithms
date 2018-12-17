@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2018-12-09 23:52:03, I have solved **283** / **903** problems while **139** are still locked.
+Until 2018-12-16 19:29:48, I have solved **285** / **907** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 283
+4. Java: 286
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -107,8 +107,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/82_RemoveDuplicatesfromSortedListII/deleteDuplicates.java)|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/83_RemoveDuplicatesfromSortedList/deleteDuplicates.java)|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |Hard|To Do|To Do|To Do|To Do|
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -929,3 +929,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/description/) |Hard|To Do|To Do|To Do|To Do|
+|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) |Medium|To Do|To Do|To Do|To Do|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) |Medium|To Do|To Do|To Do|To Do|
+|960|[Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/) |Hard|To Do|To Do|To Do|To Do|
