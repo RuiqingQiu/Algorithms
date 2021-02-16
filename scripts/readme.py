@@ -1,3 +1,4 @@
+# encoding: utf-8
 #!/usr/bin/env python
 # Original Author: Brue Yuan
 # Modified by Ruiqing Qiu on 8/29/2018
