@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-02-15 23:31:11, I have solved **288** / **1599** problems while **250** are still locked.
+Until 2021-02-17 21:14:11, I have solved **290** / **1599** problems while **250** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 290
+4. Java: 293
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -749,7 +749,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) |Medium|To Do|To Do|To Do|To Do|
 |782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) |Hard|To Do|To Do|To Do|To Do|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|To Do|To Do|To Do|To Do|
-|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Medium|To Do|To Do|To Do|To Do|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/784_LetterCasePermutation/letterCasePermutation.java)|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|To Do|To Do|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|To Do|To Do|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1614,7 +1614,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1743|[Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |1745|[Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/description/) |Hard|To Do|To Do|To Do|To Do|
 |1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/description/) |Medium|To Do|To Do|To Do|To Do|
-|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) |Easy|To Do|To Do|To Do|To Do|
+|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/1752_CheckifArrayIsSortedandRotated/check.java)|
 |1753|[Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/description/) |Medium|To Do|To Do|To Do|To Do|
 |1754|[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/description/) |Medium|To Do|To Do|To Do|To Do|
 |1755|[Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/description/) |Hard|To Do|To Do|To Do|To Do|
