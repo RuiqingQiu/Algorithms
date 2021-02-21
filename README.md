@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-02-18 21:28:50, I have solved **291** / **1600** problems while **251** are still locked.
+Until 2021-02-21 00:31:32, I have solved **294** / **1600** problems while **251** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 294
+4. Java: 297
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -38,7 +38,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/10_RegularExpressionMatching/10_isMatch.py)|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/11_ContainerWithMostWater/maxArea1.java)|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/12_IntegertoRoman/intToRoman.java)|
-|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/13_RomantoInteger/romanToInt.java)|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/14_LongestCommonPrefix/longestCommonPrefix.java)|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/15_3Sum/threeSum.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/16_3SumClosest/threeSumClosest.java)|
@@ -132,7 +132,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/104_MaximumDepthofBinaryTree/maxDepth.java)|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/107_BinaryTreeLevelOrderTraversalII/levelOrderBottom.java)|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/107_BinaryTreeLevelOrderTraversalII/levelOrderBottom.java)|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/108_ConvertSortedArraytoBinarySearchTree/sortedArrayToBST2.java)|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -970,7 +970,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) |Medium|To Do|To Do|To Do|To Do|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) |Medium|To Do|To Do|To Do|To Do|
-|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) |Medium|To Do|To Do|To Do|To Do|
+|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/991_BrokenCalculator/brokenCalc.java)|
 |992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) |Hard|To Do|To Do|To Do|To Do|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1227,7 +1227,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1691|[Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) |Hard|To Do|To Do|To Do|To Do|
 |1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/description/) |Medium|To Do|To Do|To Do|To Do|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) |Medium|To Do|To Do|To Do|To Do|
-|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/1249_MinimumRemovetoMakeValidParentheses/minRemoveToMakeValid.java)|
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/description/) |Hard|To Do|To Do|To Do|To Do|
 |1428|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/) |Easy|To Do|To Do|To Do|To Do|
