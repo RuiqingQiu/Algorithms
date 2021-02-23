@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-02-21 00:31:32, I have solved **294** / **1600** problems while **251** are still locked.
+Until 2021-02-22 21:11:12, I have solved **295** / **1600** problems while **251** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 297
+4. Java: 298
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -520,7 +520,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/521_LongestUncommonSubsequenceI/521_findLUSlength.py)|To Do|To Do|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|To Do|To Do|To Do|To Do|
-|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|To Do|To Do|To Do|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/524_LongestWordinDictionarythroughDeleting/findLongestWord.java)|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) |Medium|To Do|To Do|To Do|To Do|
 |527|[Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
