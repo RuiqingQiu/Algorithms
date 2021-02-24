@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-02-22 21:11:12, I have solved **295** / **1600** problems while **251** are still locked.
+Until 2021-02-23 20:30:19, I have solved **296** / **1608** problems while **251** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 298
+4. Java: 299
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -249,7 +249,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/237_DeleteNodeinaLinkedList/deleteNode2.java)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|To Do|To Do|To Do|To Do|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|To Do|To Do|To Do|To Do|
-|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/240_Searcha2DMatrixII/searchMatrix.java)|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|To Do|To Do|To Do|To Do|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) :lock:|Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/243_ShortestWordDistance/shortestDistance.java)|
@@ -1614,6 +1614,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1743|[Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |1745|[Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/description/) |Hard|To Do|To Do|To Do|To Do|
 |1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/description/) |Medium|To Do|To Do|To Do|To Do|
+|1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) |Easy|To Do|To Do|To Do|To Do|
+|1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/description/) |Medium|To Do|To Do|To Do|To Do|
+|1766|[Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/description/) |Hard|To Do|To Do|To Do|To Do|
+|1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) |Medium|To Do|To Do|To Do|To Do|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/1752_CheckifArrayIsSortedandRotated/check.java)|
 |1753|[Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/description/) |Medium|To Do|To Do|To Do|To Do|
 |1754|[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1624,5 +1628,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/) |Medium|To Do|To Do|To Do|To Do|
 |1761|[Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) |Hard|To Do|To Do|To Do|To Do|
 |1746|[Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |Easy|To Do|To Do|To Do|To Do|
+|1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) |Medium|To Do|To Do|To Do|To Do|
+|1770|[Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/) |Medium|To Do|To Do|To Do|To Do|
+|1771|[Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
 |1756|[Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
