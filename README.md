@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-02-26 16:23:59, I have solved **299** / **1608** problems while **251** are still locked.
+Until 2021-02-28 23:38:27, I have solved **300** / **1609** problems while **252** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 302
+4. Java: 304
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -284,7 +284,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|To Do|To Do|To Do|To Do|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|To Do|To Do|To Do|To Do|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/276_PaintFence/numWays.java)|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/276_PaintFence/numWays.java)|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/278_FirstBadVersion/firstBadVersion.java)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/279_PerfectSquares/numSquares.java)|
@@ -873,7 +873,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) |Easy|To Do|To Do|To Do|To Do|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/893_GroupsofSpecial-EquivalentStrings/numSpecialEquivGroups2.java)|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|To Do|To Do|
-|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|To Do|To Do|
+|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/895_MaximumFrequencyStack/FreqStack.java)|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/897_IncreasingOrderSearchTree/increasingBST.java)|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1038,7 +1038,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|To Do|To Do|To Do|To Do|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1634,3 +1634,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |1771|[Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
 |1756|[Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|1772|[Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
