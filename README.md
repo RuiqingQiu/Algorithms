@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-02-28 23:38:27, I have solved **300** / **1609** problems while **252** are still locked.
+Until 2021-03-01 22:25:44, I have solved **300** / **1613** problems while **252** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 304
+4. Java: 305
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -564,7 +564,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/575_DistributeCandies/575_distributeCandies.py)|To Do|To Do|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/575_DistributeCandies/575_distributeCandies.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/575_DistributeCandies/distributeCandies.java)|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/) |Medium|To Do|To Do|To Do|To Do|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/581_ShortestUnsortedContinuousSubarray/findUnsortedSubarray.java)|
 |582|[Kill Process](https://leetcode.com/problems/kill-process/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
@@ -1632,6 +1632,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) |Medium|To Do|To Do|To Do|To Do|
 |1770|[Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/) |Medium|To Do|To Do|To Do|To Do|
 |1771|[Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/) |Easy|To Do|To Do|To Do|To Do|
+|1774|[Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/description/) |Medium|To Do|To Do|To Do|To Do|
+|1775|[Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/description/) |Medium|To Do|To Do|To Do|To Do|
+|1776|[Car Fleet II](https://leetcode.com/problems/car-fleet-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |1756|[Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1772|[Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
