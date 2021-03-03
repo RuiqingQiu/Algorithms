@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-01 22:25:44, I have solved **300** / **1613** problems while **252** are still locked.
+Until 2021-03-02 23:37:14, I have solved **301** / **1613** problems while **252** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 305
+4. Java: 306
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -605,7 +605,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |Easy|To Do|To Do|To Do|To Do|
 |644|[Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) |Easy|To Do|To Do|To Do|To Do|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/645_SetMismatch/findErrorNums.java)|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) |Medium|To Do|To Do|To Do|To Do|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/647_PalindromicSubstrings/palindromicSubstrings.java)|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) |Medium|To Do|To Do|To Do|To Do|
