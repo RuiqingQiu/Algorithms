@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-02 23:37:14, I have solved **301** / **1613** problems while **252** are still locked.
+Until 2021-03-03 23:27:46, I have solved **302** / **1613** problems while **252** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 80
 3. C++: 1
-4. Java: 306
+4. Java: 307
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -276,7 +276,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/268_MissingNumber/missingNumber.java)|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) :lock:|Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/270_ClosestBinarySearchTreeValue/closestValue.java)|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
