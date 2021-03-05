@@ -12,10 +12,10 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-03 23:27:46, I have solved **302** / **1613** problems while **252** are still locked.
+Until 2021-03-04 22:16:19, I have solved **302** / **1613** problems while **252** are still locked.
 
 Completion statistic: 
-1. JavaScript: 0 
+1. JavaScript: 1 
 2. Python: 80
 3. C++: 1
 4. Java: 307
@@ -185,7 +185,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/160_IntersectionofTwoLinkedLists/getIntersectionNode.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/160_IntersectionofTwoLinkedLists/getIntersectionNode.java)|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|[JavaScript](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/160_IntersectionofTwoLinkedLists/getIntersectionNode.js)|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/160_IntersectionofTwoLinkedLists/getIntersectionNode.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/160_IntersectionofTwoLinkedLists/getIntersectionNode.java)|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/162_FindPeakElement/findPeakElement.java)|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
