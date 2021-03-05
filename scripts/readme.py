@@ -144,7 +144,7 @@ class TableInform:
                             folder_url = folder_url + "/" + item
                             folder_url = Config.github_leetcode_url + folder_url
                             self.table_item['{0:03}'.format(int(folder.split('_')[0]))].java = '[Java]({})'.format(folder_url)
-                        elif item.endswith('.cpp'):
+                        elif item.endswith('.cpp') or item.endswith('.cc'):
                             complete_info.solved['c++'] += 1
                             folder_url = folder.replace(' ', "%20")
                             folder_url = folder_url + "/" + item
