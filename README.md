@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-04 22:22:16, I have solved **302** / **1614** problems while **253** are still locked.
+Until 2021-03-06 00:12:00, I have solved **302** / **1614** problems while **253** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
 2. Python: 80
-3. C++: 2
-4. Java: 307
+3. C++: 3
+4. Java: 308
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -598,7 +598,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) |Medium|To Do|To Do|To Do|To Do|
-|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/637_AverageofLevelsinBinaryTree/637_averageOfLevels.py)|To Do|To Do|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/637_AverageofLevelsinBinaryTree/637_averageOfLevels.py)|[C++](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/637_AverageofLevelsinBinaryTree/averageOfLevels.cc)|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/637_AverageofLevelsinBinaryTree/averageOfLevels.java)|
 |638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/description/) |Medium|To Do|To Do|To Do|To Do|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/) |Medium|To Do|To Do|To Do|To Do|
