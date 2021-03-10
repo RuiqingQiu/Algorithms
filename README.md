@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-06 23:29:07, I have solved **302** / **1614** problems while **253** are still locked.
+Until 2021-03-09 17:49:06, I have solved **305** / **1622** problems while **253** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
 2. Python: 80
 3. C++: 3
-4. Java: 309
+4. Java: 312
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -586,7 +586,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/617_MergeTwoBinaryTrees/617_mergeTrees.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/617_MergeTwoBinaryTrees/mergeTrees2.java)|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |Medium|To Do|To Do|To Do|To Do|
-|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/623_AddOneRowtoTree/addOneRow.java)|
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/628_MaximumProductofThreeNumbers/maximumProduct.java)|
@@ -766,7 +766,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/798_BestRotate/798_bestRotation.py)|To Do|To Do|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/799_ChampagneTower/799_champagneTower.py)|To Do|To Do|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/705_DesignHashSet/MyHashSet.java)|
-|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) |Easy|To Do|To Do|To Do|To Do|
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/706_DesignHashMap/MyHashMap.java)|
 |800|[Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) :lock:|Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/800_SimilarRGBColor/800_similarRGB.py)|To Do|To Do|
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/801_MinimumSwaps/801_minSwap.py)|To Do|To Do|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/802_FindEventualSafeStates/802_eventualSafeNodes.py)|To Do|To Do|
@@ -1281,7 +1281,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/) |Medium|To Do|To Do|To Do|To Do|
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) |Medium|To Do|To Do|To Do|To Do|
 |1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) |Hard|To Do|To Do|To Do|To Do|
-|1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/) |Easy|To Do|To Do|To Do|To Do|
+|1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/1332_RemovePalindromicSubsequences/removePalindromeSub.java)|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/description/) |Medium|To Do|To Do|To Do|To Do|
 |1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) |Medium|To Do|To Do|To Do|To Do|
 |1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -1627,6 +1627,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/) |Medium|To Do|To Do|To Do|To Do|
 |1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/) |Medium|To Do|To Do|To Do|To Do|
 |1761|[Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) |Hard|To Do|To Do|To Do|To Do|
+|1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/) |Easy|To Do|To Do|To Do|To Do|
+|1780|[Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) |Medium|To Do|To Do|To Do|To Do|
+|1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/) |Medium|To Do|To Do|To Do|To Do|
+|1782|[Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
 |1746|[Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |Easy|To Do|To Do|To Do|To Do|
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1638,5 +1642,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1776|[Car Fleet II](https://leetcode.com/problems/car-fleet-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |1756|[Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/) |Easy|To Do|To Do|To Do|To Do|
+|1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|1786|[Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/) |Medium|To Do|To Do|To Do|To Do|
+|1787|[Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/) |Hard|To Do|To Do|To Do|To Do|
 |1772|[Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1778|[Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
