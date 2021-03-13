@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-11 21:10:05, I have solved **306** / **1623** problems while **254** are still locked.
+Until 2021-03-12 19:43:42, I have solved **307** / **1623** problems while **254** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
 2. Python: 80
 3. C++: 4
-4. Java: 313
+4. Java: 314
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -1367,7 +1367,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) |Hard|To Do|To Do|To Do|To Do|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/description/) |Easy|To Do|To Do|To Do|To Do|
-|1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) |Medium|To Do|To Do|To Do|To Do|
+|1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/1461_CheckIfaStringContainsAllBinaryCodesofSizeK/hasAllCodes.java)|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/) |Medium|To Do|To Do|To Do|To Do|
 |1463|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/) |Easy|To Do|To Do|To Do|To Do|
