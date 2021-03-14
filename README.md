@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-12 19:43:42, I have solved **307** / **1623** problems while **254** are still locked.
+Until 2021-03-13 19:06:58, I have solved **307** / **1623** problems while **254** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
 2. Python: 80
 3. C++: 4
-4. Java: 314
+4. Java: 315
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -791,7 +791,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/820_ShortEncodingofWords/820_minimumLengthEncoding.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/820_ShortEncodingofWords/minimumLengthEncoding.java)|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/821_ShortestDistanceToACharacter/821_shortestToChar.py)|To Do|To Do|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/822_CardFlippingGame/822_flipgame.py)|To Do|To Do|
-|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/823_BinaryTreesWithFactors/823_numFactoredBinaryTrees.py)|To Do|To Do|
+|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/823_BinaryTreesWithFactors/823_numFactoredBinaryTrees.py)|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/823_BinaryTreesWithFactors/numFactoredBinaryTrees.java)|
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/) |Easy|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/824_GoatLatin/824_toGoatLatin.py)|To Do|To Do|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) |Medium|To Do|[Python](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/825_FriendsOfAppropriateAges/825_numFriendRequests.py)|To Do|To Do|
