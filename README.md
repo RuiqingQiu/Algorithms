@@ -12,13 +12,13 @@
 ##### Major Milestone
 - After almost half year, will be joining Google - [#1](https://github.com/RuiqingQiu/Leetcode/releases/tag/1.0)
 
-Until 2021-03-14 21:43:31, I have solved **308** / **1623** problems while **254** are still locked.
+Until 2021-03-15 23:43:15, I have solved **309** / **1627** problems while **254** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
 2. Python: 80
 3. C++: 4
-4. Java: 316
+4. Java: 317
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -530,7 +530,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |531|[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/532_K-diffPairsinanArray/findPairs.java)|
 |533|[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) |Medium|To Do|To Do|To Do|To Do|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/535_EncodeandDecodeTinyURL/Codec.java)|
 |536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) |Medium|To Do|To Do|To Do|To Do|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/RuiqingQiu/Leetcode/blob/master/leetcode-algorithms/538_ConvertBSTtoGreaterTree/convertBST.java)|
@@ -1646,6 +1646,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |1786|[Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/) |Medium|To Do|To Do|To Do|To Do|
 |1787|[Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/) |Hard|To Do|To Do|To Do|To Do|
+|1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) |Easy|To Do|To Do|To Do|To Do|
+|1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) |Medium|To Do|To Do|To Do|To Do|
+|1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/) |Medium|To Do|To Do|To Do|To Do|
+|1793|[Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/) |Hard|To Do|To Do|To Do|To Do|
 |1772|[Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1778|[Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1788|[Maximize the Beauty of the Garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
